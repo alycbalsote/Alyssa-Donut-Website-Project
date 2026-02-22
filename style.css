@@ -16,6 +16,7 @@ body {
   background-position: center;
   height: clamp(350px, 55vh, 600px);
   z-index: 999;
+  overflow: hidden;
 }
 
 .header-two {
@@ -679,6 +680,7 @@ body {
 *:focus {
   outline: none;
 }
+
 
 
 
