@@ -448,7 +448,7 @@ body {
   grid-template-columns: 1fr 1fr;
   align-items: center;
   gap: 60px;
-  padding: 200px 9% 60px;
+  padding: 220px 9% 60px;
 }
 
 .product-detail .main-img {
@@ -769,6 +769,7 @@ body {
   padding: 12px 30px;
   margin: 30px 0 0 auto;
 }
+
 
 
 
