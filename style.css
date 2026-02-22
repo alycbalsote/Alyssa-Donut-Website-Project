@@ -6,10 +6,6 @@ body {
   color: white;
 }
 
-html, body {
-  overflow-x: hidden;
-}
-
 .header {
   position: sticky;
   top: 0;
@@ -683,3 +679,4 @@ html, body {
 *:focus {
   outline: none;
 }
+
