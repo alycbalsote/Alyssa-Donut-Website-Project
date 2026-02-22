@@ -7,13 +7,14 @@ body {
 }
 
 .header {
-  position: sticky;
+  position: relative;
   top: 0;
   left: 0;
   background-image: url(assets/strawberry-drip.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+   background-position: right top;
   height: clamp(350px, 55vh, 600px);
   z-index: 999;
 }
@@ -679,4 +680,5 @@ body {
 *:focus {
   outline: none;
 }
+
 
